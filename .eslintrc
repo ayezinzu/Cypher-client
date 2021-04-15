@@ -1,0 +1,8 @@
+{
+	"extends": "tulip",
+	"rules": {
+		"no-unused-vars": "off",
+		"valid-jsdoc": "off",
+		"capitalized-comments": "off"
+	}
+}
