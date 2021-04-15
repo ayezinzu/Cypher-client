@@ -2,11 +2,11 @@
 Custom discord bot - Voice recording | Text recording | Reaction recording | Custom Polls | Reputation system
 
 Custom :bots: Commands:
- ════════════════════
+ ════════════════════ 
 Audio Recording
 ---------------
-$record - [Limited] Starts audio recording 
-$stop - [Limited] Stops audio recording
+$record - [Limited] Starts audio recording  \n
+$stop - [Limited] Stops audio recording \n
 delete - During DM for title of Text capture you can opt to delete the save
 $myrecordings - [All] Get DM'd list of all user Audio Recordings for viewing & edit
 
